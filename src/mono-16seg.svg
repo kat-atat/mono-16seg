@@ -1,0 +1,252 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+
+  <text x="0" y="20" font-size="1" font-family="my-font">
+    AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz
+  </text>
+
+  <defs>
+
+    <font
+      horiz-origin-x="5"
+      horiz-origin-y="5"
+      horiz-adv-x="40">
+
+      <font-face
+        font-family="my-font" 
+        font-style="all" 
+        font-variant="normal" 
+        font-weight="400" 
+        font-stretch="0" 
+        font-size="0" 
+
+        units-per-em="40" 
+        stemv="40" 
+        stemh="40" 
+        slope="40" 
+        cap-height="40" 
+        accent-height="30" 
+        ascent="30" 
+        descent="-10" 
+        widths="40" 
+        bbox="0 0 30 30" 
+
+        ideographic="40"
+        alphabetic="40"
+        mathematical="40"
+        hanging="40"
+
+        underline-position="0"
+        underline-thickness="0"
+        strikethrough-position="0"
+        strikethrough-thickness="0"
+        overline-position="0"
+        overline-thickness="0"
+
+        unicode-range="U+0000-0080" 
+
+        panose-1=""/>
+
+      <glyph unicode=" " d=""/>
+
+      <glyph unicode="!" d=""/>
+
+      <glyph unicode="&#00033;" d=""/>
+
+      <glyph unicode="#" d=""/>
+
+      <glyph unicode="$" d=""/>
+
+      <glyph unicode="%" d=""/>
+
+      <glyph unicode="&#00037;" d=""/>
+
+      <glyph unicode="'" d=""/>
+
+      <glyph unicode="(" d=""/>
+
+      <glyph unicode=")" d=""/>
+
+      <glyph unicode="*" d=""/>
+
+      <glyph unicode="+" d=""/>
+
+      <glyph unicode="," d=""/>
+
+      <glyph unicode="-" d=""/>
+
+      <glyph unicode="." d=""/>
+
+      <glyph unicode="/" d=""/>
+
+
+      <glyph unicode="A" d="M20,0 L20,5 L10,5 L10,0 L0,0 L0,30 L30,30 L30,0 L20,0 z M20,25 L10,25 L10,10 L20,10 L20,25 z"/>
+
+      <glyph unicode="B" d="M30,0 L0,0 L0,30 L30,30 L30,20 L25,20 L25,10 L30,10 L30,0 z M20,15 L10,15 L10,5 L20,5 L20,15 z M20,25 L10,25 L10,20 L20,20 L20,25 z"/>
+
+      <glyph unicode="C" d="M20,10 L20,5 L10,5 L10,25 L20,25 L20,20 L30,20 L30,30 L0,30 L0,0 L30,0 L30,10 L20,10 z"/>
+
+      <glyph unicode="D" d="M30,0 L30,30 L0,30 L0,0 L30,0 z M20,5 L10,5 L10,25 L20,25 L20,21 L25,21 L25,10 L20,10 L20,5 z"/>
+
+      <glyph unicode="E" d="M30,30 L0,30 L0,0 L30,0 L30,10 L20,10 L20,20 L30,20 L30,30 z M20,20 L10,20 L10,25 L20,25 L20,20 z M20,5 L10,5 L10,10 L20,10 L20,5 z"/>
+
+      <glyph unicode="F" d="M30,30 L30,20 L20,20 L20,10 L10,10 L10,0 L0,0 L0,30 L30,30 z M20,25 L10,25 L10,20 L20,20 L20,25 z"/>
+
+      <glyph unicode="G" d="M30,0 L0,0 L0,30 L20,30 L20,25 L10,25 L10,9 L20,9 L20,15 L15,15 L15,20 L30,20 L30,0 z"/>
+
+      <glyph unicode="H" d="M20,30 L20,20 L10,20 L10,30 L0,30 L0,0 L30,0 L30,30 L20,30 z M20,0 L10,0 L10,15 L20,15 L20,0 z"/>
+
+      <glyph unicode="I" d="M0,0 L30,0 L30,10 L20,10 L20,20 L30,20 L30,30 L0,30 L0,20 L10,20 L10,10 L0,10 L0,0 z"/>
+
+      <glyph unicode="J" d="M0,10 L10,10 L10,5 L20,5 L20,30 L30,30 L30,0 L0,0 L0,10 z"/>
+
+      <glyph unicode="K" d="M30,0 L20,0 L20,10 L10,10 L10,0 L0,0 L0,30 L30,30 L30,20 L25,20 L25,10 L30,10 L30,0 z M20,30 L10,30 L10,15 L15,15 L15,20 L20,20 L20,30 z"/>
+
+      <glyph unicode="L" d="M30,0 L0,0 L0,30 L10,30 L10,10 L30,10 L30,0 z"/>
+
+      <glyph unicode="M" d="M20,0 L20,10 L10,10 L10,0 L0,0 L0,30 L30,30 L30,0 L20,0 z M25,20 L20,20 L20,10 L25,10 L25,20 z M10,20 L5,20 L5,10 L10,10 L10,20 z M20,30 L10,30 L10,25 L20,25 L20,30 z"/>
+
+      <glyph unicode="N" d="M0,30 L20,30 L20,10 L25,10 L25,20 L30,20 L30,0 L10,0 L10,20 L5,20 L5,10 L0,10 L0,30 z"/>
+
+      <glyph unicode="O" d="M30,0 L30,30 L0,30 L0,0 L30,0 z M20,5 L10,5 L10,25 L20,25 L20,5 z"/>
+
+      <glyph unicode="P" d="M30,30 L30,10 L10,10 L10,0 L0,0 L0,30 L30,30 z M20,25 L10,25 L10,15 L20,15 L20,25 z"/>
+
+      <glyph unicode="Q" d="M30,30 L30,0 L0,0 L0,30 L30,30 z M10,5 L20,5 L20,10 L25,10 L25,20 L10,20 L10,5 z"/>
+
+      <glyph unicode="R" d="M30,0 L20,0 L20,10 L10,10 L10,0 L0,0 L0,30 L30,30 L30,20 L25,20 L25,10 L30,10 L30,0 z M20,25 L10,25 L10,20 L20,20 L20,25 z"/>
+
+      <glyph unicode="S" d="M0,30 L20,30 L20,25 L10,25 L10,20 L30,20 L30,0 L10,0 L10,5 L20,5 L20,10 L0,10 L0,30 z"/>
+
+      <glyph unicode="T" d="M0,30 L30,30 L30,20 L20,20 L20,0 L10,0 L10,20 L0,20 L0,30 z"/>
+
+      <glyph unicode="U" d="M30,30 L30,0 L0,0 L0,30 L30,30 z M20,30 L10,30 L10,5 L20,5 L20,30 z"/>
+
+      <glyph unicode="V" d="M0,30 L30,30 L30,20 L25,20 L25,10 L20,10 L20,0 L10,0 L10,10 L5,10 L5,20 L0,20 L0,30 z M20,30 L10,30 L10,15 L20,15 L20,30 z"/>
+
+      <glyph unicode="W" d="M20,0 L20,5 L10,5 L10,0 L0,0 L0,30 L30,30 L30,0 L20,0 z M25,20 L20,20 L20,10 L25,10 L25,20 z M10,20 L5,20 L5,10 L10,10 L10,20 z M20,30 L10,30 L10,20 L20,20 L20,30 z"/>
+
+      <glyph unicode="X" d="M0,30 L30,30 L30,20 L25,20 L25,10 L30,10 L30,0 L20,0 L20,10 L10,10 L10,0 L0,0 L0,10 L5,10 L5,20 L0,20 L0,30 z M20,30 L10,30 L10,15 L20,15 L20,30 z"/>
+
+      <glyph unicode="Y" d="M0,30 L30,30 L30,20 L20,20 L20,0 L10,0 L10,20 L0,20 L0,30 z M20,30 L10,30 L10,20 L20,20 L20,30 z"/>
+
+      <glyph unicode="Z" d="M0,30 L30,30 L30,20 L20,20 L20,15 L15,15 L15,10 L10,10 L10,5 L20,5 L20,10 L30,10 L30,0 L0,0 L0,10 L10,10 L10,15 L15,15 L15,20 L20,20 L20,25 L10,25 L10,20 L0,20 L0,30 z"/>
+
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <glyph unicode="" d=""/>
+
+      <missing-glyph d="M30,0 L30,30 L0,30 L0,0 L30,0 z M20,20 L10,20 L10,25 L20,25 L20,20 z M10,10 L5,10 L5,20 L10,20 L10,10 z M25,10 L20,10 L20,20 L25,20 L25,10 z M20,5 L10,5 L10,10 L20,10 L20,5 z"/>
+    </font>
+  </defs>
+</svg>
